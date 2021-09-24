@@ -132,6 +132,15 @@ body {
   opacity: .8;
 }
 
+/**END OF HOMEPAGE **/
+
+/**START OF MENU PAGE **/
+
+.category-tile {
+  position: relative;
+  
+}
+
 /** START FOOTER **/
 
 .panel-footer {
