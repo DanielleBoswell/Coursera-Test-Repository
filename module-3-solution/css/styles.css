@@ -1,0 +1,69 @@
+/** Navbar **/
+
+#header-nav {
+	border-radius: 0;
+  	border: 3px solid deeppink;
+  	background-color: lightcoral;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1 {
+	color: white;
+	margin: -10px 15px 10px 0;
+	line-height: .75;
+
+}
+
+.navbar-header a {
+	text-decoration: none;
+
+}
+
+#nav-list a {
+	font-size: 1.5em;
+	color: deeppink;
+}
+
+#nav-list a:hover {
+	color: white;
+}
+
+
+.navbar-header button.navbar-toggle, button.icon-bar {
+  border: 0;
+  background-color: white;
+}
+
+
+h2 {
+	font-size: 2em;
+}
+
+/** Sections **/ 
+
+.item {
+	background-color: lightgray;
+	border: 1px solid darkgray;
+	margin: 0 auto 15px;
+	position: relative;
+}
+
+.item span {
+	position: absolute;
+ 	top: 0;
+	right: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.5em;
+	font-style: italic;
+	margin-top: 10px;
+}
+
+.item p {
+	margin-top: 40px;
+	margin-left: 10px;
+	margin-left: 10px;
+}
